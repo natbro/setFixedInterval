@@ -1,0 +1,24 @@
+{
+  "name": "setfixedinterval",
+  "version": "1.0.0",
+  "description": "fixed-frequency callbacks, lower variance, stricter wall-clock affinity than setInterval",
+  "main": "setfixedinterval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natbro/setfixedinterval.git"
+  },
+  "keywords": [
+    "setTimeout",
+    "setInterval",
+    "fixed-frequency"
+  ],
+  "author": "Nat Brown <natbro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natbro/setfixedinterval/issues"
+  },
+  "homepage": "https://github.com/natbro/setfixedinterval"
+}
